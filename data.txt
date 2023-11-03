@@ -1,1 +1,1 @@
-Questo testo è stato creato per un test di Git per Github.
+Questo testo è stato creato per un test di Git.
