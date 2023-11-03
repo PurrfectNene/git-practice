@@ -1,1 +1,1 @@
-ciao bello
+Questo testo è stato creato per un test di Git.
